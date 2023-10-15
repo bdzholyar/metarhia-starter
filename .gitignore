@@ -1,0 +1,6 @@
+### node ###
+node_modules/
+log/
+
+### ide/code editor
+.vscode/

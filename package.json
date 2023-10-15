@@ -1,0 +1,22 @@
+{
+  "name": "metarhia-starter",
+  "version": "1.0.0",
+  "description": "Metarhia starter repository",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdzholyar/metarhia-starter.git"
+  },
+  "author": "Edward Dubovic <edward.dubovic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdzholyar/metarhia-starter/issues"
+  },
+  "homepage": "https://github.com/bdzholyar/metarhia-starter#readme",
+  "dependencies": {
+    "impress": "^3.0.11"
+  }
+}
